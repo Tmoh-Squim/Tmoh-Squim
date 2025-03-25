@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Timothy Kibunja (Tmoh-Squim) </h1>
+<h1 align="center">👋 Hi, I'm Timothy Kibunja </h1>
 <h3 align="center">A Passionate Full-Stack & Multi-Platform Developer</h3>
 
 <p align="center">
@@ -37,7 +37,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tmoh-Squim&show_icons=true&theme=radical&count_private=true" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tmoh-Squim&theme=radical" width="49%">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tmoh-Squim&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
