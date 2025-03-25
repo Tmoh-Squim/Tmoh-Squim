@@ -51,16 +51,6 @@
 
 ---
 
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tmoh-Squim&show_icons=true&theme=dark" alt="Tmoh-Squim's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tmoh-Squim&theme=dark" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📬 Connect With Me  
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-%23000000?style=flat-square&logo=vercel&logoColor=white)](https://timothy-portfolio.software)  
