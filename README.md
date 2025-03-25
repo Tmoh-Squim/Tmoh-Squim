@@ -33,15 +33,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tmoh-Squim&show_icons=true&theme=radical&count_private=true" width="49%">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tmoh-Squim&theme=dark" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🛠️ Tech Stack  
 **💻 Frontend:** React, Next.js, TailwindCSS, TypeScript  
 **⚙️ Backend:** Node.js, Express, MongoDB  
