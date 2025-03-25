@@ -19,7 +19,7 @@
 - 🏗️ **Full-stack developer** skilled in **MongoDB, Express, React, Node.js, and TailwindCSS**.  
 - 🌍 **Building a Multiplatform E-Commerce System & a Job Finding System with AI**.  
 - 🎓 **Third-year student at Kirinyaga University**, excelling in software development.  
-- 🏆 **Power Learn Project finalist**, aiming for top 3 with a MERN + AI project!  
+- 🏆 **Power Learn Project finalist**, aiming higher.
 - 💬 Ask me about **Next.js, TypeScript, JWT authentication, KMP, and AI integration**.  
 
 ---
